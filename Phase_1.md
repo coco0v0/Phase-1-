@@ -29,32 +29,32 @@ Great! You found a `branch` and saw this file. You will need to copy this file i
 (psst!! no one will see all of these and only approved contact info will be released - and only to your group members)
 
 1. Name: 
-   - name on GitHub:
+   - name on GitHub: Coco Wong 
 
 2. Best way to contact for group members
-   - discord:
-   - email:
-   - phone (optional):
+   - discord: Yee sum Wong
+   - email:coco0v0@my.yorku.ca
+   - phone (optional):778-871-7735 
    - other:
 
-3. Timezone:
+3. Timezone: Toronto 
 
-4. Best days for me are:
+4. Best days for me are: Weekends 
 
-5. Best times for me are:
+5. Best times for me are: 12pm-8pm
 
-6. I am confident about this course: yes/no ?
+6. I am confident about this course: yes/no ? NO
 
 7. Do I think this project will be: easy, as hard as I make it, difficult?
-   - why?
+   - why? I think this project is goiing to be difficult becuase I am not good at python 
 
-8. Hey! I want to tell you about these interesting things I know (did you work on a fun project? do you know other computer languages? do you have some art to share? what about something you've built?):
+8. Hey! I want to tell you about these interesting things I know (did you work on a fun project? do you know other computer languages? do you have some art to share? what about something you've built?): I have make a gold miner game in processing 
 
 9. I am prepared to come in-person or here are my opinions and thoughts on the following: 
-   - for lectures:
-   - for labs:
+   - for lectures: Online 
+   - for labs:Online 
 
-10. Honestly, I think I could improve the following:
+10. Honestly, I think I could improve the following: firget ti get in touch with my groupmate 
 
 11. Time-wise, knowing myself, I'll probably:
    - forget to get in touch with people
@@ -64,10 +64,10 @@ Great! You found a `branch` and saw this file. You will need to copy this file i
    - other:
 
 12. I have some requests regarding group members or accommodations or stuff that really makes it either hard for me to do group work or else makes group work really fun for me:
+         I have other course work that i need to do 
+13. I could go outside to find content for the project: Youtube 
 
-13. I could go outside to find content for the project:
-
-14. I have some cool equipment like: 
+14. I have some cool equipment like: Camera and electric drumset 
    - VR?
    - camera?
    - kinect?
@@ -77,9 +77,10 @@ Great! You found a `branch` and saw this file. You will need to copy this file i
    - outdoor stuff?
    - I like other stuff (like what?):  
 
-15. I've done some art exhibits:
+15. I've done some art exhibits: Never  
    - I've been to one?
    - I know what that is?
    - I ?
 
 15. Anything else I have thoughts on regarding this project, this course, the content, or life in general:
+This course is so unorganized and i am so confuse about this course 
